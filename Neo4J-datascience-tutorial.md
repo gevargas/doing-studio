@@ -279,9 +279,9 @@ Algorithms in Neo4J can run on explicitly and implicitly created graphs. For thi
 - Page Rank
 - Label propagation
 - Weakly Connected Components
-- [Louvain](1.7%20Louvain)
+- [Louvain](./1.7%20Louvain.md)
 - Node similarity
-- [Shortest path](1.8%20Shortest%20path)
+- [Shortest path](./1.8%20Shortest%20path.md)
 
 Running algorithms on explicitly created graphs allows to operate on a graph multiple time. To do this refer to the graph by its name, since it is stored in the graph catalogue as seen in the previous section.  **The syntax for applying algorithms**  on  **explicit graphs**  is the following:
 
